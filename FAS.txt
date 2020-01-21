@@ -1,1 +1,13 @@
 "#this is my psuedode file for Find Avg Score"
+score 1 = float(input("Enter exam score 1: "))
+score 2 = float(input("Enter exam score 1: "))
+score 3 = float(input("Enter exam score 1: "))
+score 4 = float(input("Enter exam score 1: "))
+score 5 = float(input("Enter exam score 1: "))
+score 6 = float(input("Enter exam score 1: "))
+score 7 = float(input("Enter exam score 1: "))
+score 8 = float(input("Enter exam score 1: "))
+score 9 = float(input("Enter exam score 1: "))
+score 10 = float(input("Enter exam score 1: "))
+avg_scores = (score 1 + score 2 + score 3 + score 4 + score 5 + score 6 + score 7 + score 8 + score 9 + score 10)/10
+print = avg_scores, "is your average score."

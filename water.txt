@@ -1,1 +1,8 @@
 "#this is my water run off file"
+roof_width = float(input("Enter roof width: "))
+roof_length = float(input("Enter roof length: "))
+rainfall = float(input("Enter rainfall amoutn: "))
+convert_width = roof_width * 12
+convert_length = roof_length * 12
+runoff = ((convert_width * convert_length * rainfall)/231)
+print = The amount of water that runs off your roof in a rainstorm is", runoff 
